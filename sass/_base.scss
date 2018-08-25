@@ -61,3 +61,11 @@ pre > code {
 iframe {
   border: 0;
 }
+
+.logo, .menu, h1, p::first-letter {
+  font-family: 'Remington';
+}
+
+p::first-letter {
+  font-size: 200%;
+}
